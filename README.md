@@ -46,4 +46,4 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/fruit-snake.git](https://github.com/yourusername/fruit-snake.git)
+   git clone [https://github.com/PollaJoseph/fruit-snake.git](https://github.com/PollaJoseph/fruit-snake.git)
