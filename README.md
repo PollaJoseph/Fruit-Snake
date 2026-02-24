@@ -31,7 +31,7 @@ Different fruits will give you different point boosts. Be on the lookout for the
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="path/to/your/home_screen_image.png" alt="Fruit Snake Home Screen" width="300"/>
+  <img src="assets/images/Screen1.png" alt="Fruit Snake Home Screen" width="300"/>
   <img src="path/to/your/gameplay_image.png" alt="Fruit Snake Gameplay" width="300"/>
 </div>
 
